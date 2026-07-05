@@ -49,6 +49,14 @@ Vercel
 
 https://productcardgrid.vercel.app/
 
+##Real-life use
+React roles expect reusable components, strong UI states, API handling, testing, and deployed proof of work.
+
+##Tech used
+React
+JSX
+Props
+Vite
 
 ## Reflection
 
