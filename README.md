@@ -1,6 +1,15 @@
 <<<<<<< HEAD
 # Interactive Product Card Grid
 
+##Steps
+
+-create vite@latest
+-select Reactjs
+-select Javascript
+-select EsLint (Most commonly used in React projects)
+-npm install
+-npm run dev
+
 ## Features
 
 - Product cards
